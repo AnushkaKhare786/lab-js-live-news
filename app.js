@@ -22,7 +22,7 @@ function us()
     news(country)
     document.getElementById('country').style.visibility = 'hidden'
 }
-const apikey = "df1b4605f6aa4b71aae3e1aba4f0552f";
+const apikey = "efb99aead29642789742f3ec6e8d2f49";
 //getting news 
 function news(country) {
     // using axios to fetch data from newsapi.org
